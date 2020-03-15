@@ -64,7 +64,7 @@ module.exports = {
             rinkebyMetamaskProvider = new ManualSignProvider({ 
               projectId,
               token,
-              from: '0xEA6630F5bfA193f76cfc5F530648061b070e7DAd', 
+              from: '0xAb5937B9b3bE8a568943617DfCbd9D55717C32ec', 
               endpoint: 'https://rinkeby.infura.io/v3/14a9bebf5c374938b2476abe29ca5564',
               networkId: '4',
             })
